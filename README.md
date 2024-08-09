@@ -18,7 +18,7 @@ Certifications & Memberships
 
 * Within the Common Workflow Language (CWL) Community:
 
-  * Member of the Common Workflow Language Technical Team, contributing to the adoption of CWL standards (https://www.commonwl.org/governance/) in the Earth Observation domain.
+  * Member of the Common Workflow Language Technical Team, contributing to the adoption of CWL standards ([https://www.commonwl.org/governance/](https://www.commonwl.org/governance/#cwl-technical-team)) in the Earth Observation domain.
 
 ### Open Source Contributions
 
