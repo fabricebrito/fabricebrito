@@ -19,6 +19,10 @@ As the Founder and a key innovator at Terradue, I am responsible for driving the
 
   * Member of the Common Workflow Language Technical Team, contributing to the adoption of CWL standards ([https://www.commonwl.org/governance/](https://www.commonwl.org/governance/#cwl-technical-team)) in the Earth Observation domain.
 
+* ZOO-Project:
+
+ * Member of the ZOO-Project Project Steering Committee, helping to guide the development of this open-source platform for creating and deploying interoperable web services (https://zoo-project.org/).
+
 ### Open Source Contributions
 
 * Maintainer of Calrissian (a Kubernetes CWL runner), supporting scalable, containerized workflow executions on Kubernetes.
