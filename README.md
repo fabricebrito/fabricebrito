@@ -29,7 +29,8 @@ Certifications & Memberships
 ### Technologies & Expertise
 
 * Deep experience in Earth Observation systems and technologies, specializing in creating scalable, interoperable solutions for complex data challenges.
-* **Argo Workflows & Argo Events**: Expert in leveraging these tools for staging event-driven architectures tailored to EO ingestion and processing workflows.
+* Kubernetes Enthusiast: Passionate about Kubernetes and committed to boosting its adoption at Terradue, driving the implementation of cloud-native technologies to enhance our EO workflows.
+* Expert in leveraging Argo Workflows & Argo Events tools for staged event-driven architectures tailored to EO ingestion and processing workflows.
 
 ### ORCID
 
