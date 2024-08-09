@@ -21,7 +21,7 @@ As the Founder and a key innovator at Terradue, I am responsible for driving the
 
 * ZOO-Project:
 
- * Member of the ZOO-Project Project Steering Committee, helping to guide the development of this open-source platform for creating and deploying interoperable web services (https://zoo-project.org/).
+  * Member of the ZOO-Project Project Steering Committee, helping to guide the development of this open-source platform for creating and deploying interoperable web services (https://zoo-project.org/).
 
 ### Open Source Contributions
 
