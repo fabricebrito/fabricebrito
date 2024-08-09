@@ -1,16 +1,36 @@
-## Hi there 👋
+## Founder at Terradue | Earth Observation Specialist | Open Standards Advocate | Open Source Developer
 
-<!--
-**fabricebrito/fabricebrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an experienced technologist and entrepreneur with a passion for advancing Earth Observation (EO) and open standards in geospatial and scientific communities. 
 
-Here are some ideas to get you started:
+My work spans across various roles, from leading innovation at Terradue to contributing to key standards and tools that drive interoperability and reproducibility in scientific workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Role at Terradue
+
+As the Founder and a key innovator at Terradue, I am responsible for driving the company's innovation strategy and ensuring the continuous evolution of our technology stack to meet the ever-changing demands of the EO community.
+Certifications & Memberships
+
+### Professional Experience
+
+* Within the Open Geospatial Consortium (OGC):
+
+  * Author of the OGC Best Practice for Earth Observation Application Packaging, which guides best practices for packaging and deploying EO applications.
+  * Contributor to the OGC Testbed-18 Reproducible FAIR Best Practices Engineering Report, which supports the development of FAIR (Findable, Accessible, Interoperable, and Reusable) data principles within the geospatial community.
+
+* Within the Common Workflow Language (CWL) Community:
+
+Member of the Common Workflow Language Technical Team, contributing to the adoption of CWL standards (https://www.commonwl.org/governance/) in the Earth Observation domain.
+
+### Open Source Contributions
+
+* Maintainer of Calrissian (a Kubernetes CWL runner), supporting scalable, containerized workflow executions on Kubernetes.
+* Main Developer of Pycalrissian, a Python client for Calrissian, simplifying interaction with CWL on Kubernetes.
+* Developer/Maintainer of Snapista and Graphista, tools designed to streamline EO data processing workflows.
+
+### Technologies & Expertise
+
+* Deep experience in Earth Observation systems and technologies, specializing in creating scalable, interoperable solutions for complex data challenges.
+* **Argo Workflows & Argo Events**: Expert in leveraging these tools for staging event-driven architectures tailored to EO ingestion and processing workflows.
+
+### ORCID
+
+ORCID: https://orcid.org/0009-0000-1342-9736
