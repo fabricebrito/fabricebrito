@@ -7,9 +7,8 @@ My work spans across various roles, from leading innovation at Terradue to contr
 ### Role at Terradue
 
 As the Founder and a key innovator at Terradue, I am responsible for driving the company's innovation strategy and ensuring the continuous evolution of our technology stack to meet the ever-changing demands of the EO community.
-Certifications & Memberships
 
-### Professional Experience
+### Memberships
 
 * Within the Open Geospatial Consortium (OGC):
 
